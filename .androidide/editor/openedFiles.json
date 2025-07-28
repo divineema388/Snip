@@ -1,0 +1,200 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Snip/app/src/main/java/snip/dealabs/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 20,
+          "index": 20,
+          "line": 0
+        },
+        "start": {
+          "column": 20,
+          "index": 20,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Snip/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 25,
+          "index": 133,
+          "line": 2
+        },
+        "start": {
+          "column": 25,
+          "index": 133,
+          "line": 2
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Snip/app/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 37,
+          "index": 280,
+          "line": 10
+        },
+        "start": {
+          "column": 37,
+          "index": 280,
+          "line": 10
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Snip/app/src/main/res/values/strings.xml",
+      "selection": {
+        "end": {
+          "column": 12,
+          "index": 191,
+          "line": 4
+        },
+        "start": {
+          "column": 12,
+          "index": 191,
+          "line": 4
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Snip/app/src/main/res/values/themes.xml",
+      "selection": {
+        "end": {
+          "column": 12,
+          "index": 685,
+          "line": 11
+        },
+        "start": {
+          "column": 12,
+          "index": 685,
+          "line": 11
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Snip/app/src/main/res/values/colors.xml",
+      "selection": {
+        "end": {
+          "column": 12,
+          "index": 378,
+          "line": 9
+        },
+        "start": {
+          "column": 12,
+          "index": 378,
+          "line": 9
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Snip/app/src/main/java/snip/dealabs/SnippetVeiwHolder.kt",
+      "selection": {
+        "end": {
+          "column": 20,
+          "index": 20,
+          "line": 0
+        },
+        "start": {
+          "column": 20,
+          "index": 20,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Snip/app/src/main/java/snip/dealabs/SnippetAdapter.kt",
+      "selection": {
+        "end": {
+          "column": 20,
+          "index": 20,
+          "line": 0
+        },
+        "start": {
+          "column": 20,
+          "index": 20,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Snip/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 106,
+          "index": 586,
+          "line": 10
+        },
+        "start": {
+          "column": 106,
+          "index": 586,
+          "line": 10
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Snip/settings.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 45,
+          "index": 393,
+          "line": 15
+        },
+        "start": {
+          "column": 45,
+          "index": 393,
+          "line": 15
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Snip/gradle.properties",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Snip/gradle/wrapper/gradle-wrapper.properties",
+      "selection": {
+        "end": {
+          "column": 73,
+          "index": 138,
+          "line": 2
+        },
+        "start": {
+          "column": 73,
+          "index": 138,
+          "line": 2
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Snip/app/src/main/java/snip/dealabs/SnippetItem.kt",
+      "selection": {
+        "end": {
+          "column": 20,
+          "index": 20,
+          "line": 0
+        },
+        "start": {
+          "column": 20,
+          "index": 20,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Snip/app/src/main/java/snip/dealabs/MainActivity.kt"
+}
